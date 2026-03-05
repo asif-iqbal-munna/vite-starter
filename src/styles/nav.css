@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 5rem;
+  border-bottom: 1px solid #8a8a8a;
+}
+
+.nav .nav-logo {
+  font-size: 2rem;
+}
+
+.nav .nav-links {
+  display: flex;
+  gap: 3rem;
+  font-size: 1.6rem;
+}
+
+.nav-links .nav-link:hover {
+  color: var(--color-primary)
+}
+

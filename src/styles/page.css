@@ -1,0 +1,13 @@
+.page {
+  max-width: 1440px;
+  margin: auto;
+  padding: 2rem 4rem;
+}
+
+.page-title {
+  font-size: 3.5rem;
+}
+
+.page-description {
+  font-size: 1.6rem;
+}
